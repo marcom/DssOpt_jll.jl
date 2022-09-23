@@ -1,0 +1,9 @@
+[[DssOpt]]
+arch = "x86_64"
+git-tree-sha1 = "97fcc692d568a3ed5d27adcfbd6291c14c6b41e9"
+libc = "glibc"
+os = "linux"
+
+    [[DssOpt.download]]
+    sha256 = "9a7179955f063a124b60033992266e20412d56ec2b47dbde6a8e789ffaf97f58"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.1+0/DssOpt.v1.0.1.x86_64-linux-gnu.tar.gz"
