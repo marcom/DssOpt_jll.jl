@@ -8,13 +8,19 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `DssOpt_jll.jl` have been built from these sources:
 
-* compressed archive: https://github.com/marcom/dss-opt/archive/cb69a3b9af1befdaad3bae53c764594011418016.tar.gz (SHA256 checksum: `f17a2e2eefa34fbd0e2a31bed20af921b3095163ac7131c1e6457d68139e9057`)
+* files in directory, relative to originating `build_tarballs.jl`: `/home/mcm/src/dss-opt/dss-opt.git/`
 
 ## Platforms
 
 `DssOpt_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {libc=glibc}` (`x86_64-linux-gnu`)
+* `macOS aarch64` (`aarch64-apple-darwin`)
+* `macOS x86_64` (`x86_64-apple-darwin`)
+* `Linux x86_64 {cxxstring_abi=cxx03, libc=glibc}` (`x86_64-linux-gnu-cxx03`)
+* `Linux x86_64 {cxxstring_abi=cxx11, libc=glibc}` (`x86_64-linux-gnu-cxx11`)
+* `FreeBSD x86_64` (`x86_64-unknown-freebsd`)
+* `Windows x86_64 {cxxstring_abi=cxx03}` (`x86_64-w64-mingw32-cxx03`)
+* `Windows x86_64 {cxxstring_abi=cxx11}` (`x86_64-w64-mingw32-cxx11`)
 
 ## Dependencies
 
