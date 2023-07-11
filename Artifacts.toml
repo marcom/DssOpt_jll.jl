@@ -38,144 +38,144 @@ os = "windows"
     url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.1+0/DssOpt.v1.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
 [[DssOpt]]
 arch = "aarch64"
-git-tree-sha1 = "02baaacb798bfcfaf6f6efc734e0c45662aacf3a"
+git-tree-sha1 = "228940b4b5736fbb5b86bd6c7e416469dc733030"
 os = "macos"
 
     [[DssOpt.download]]
-    sha256 = "274f1edec22b6651e1b0ce60c6332a0d56cd03ad18fcca1133dd63c2fbe07dcc"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.aarch64-apple-darwin.tar.gz"
+    sha256 = "550a30baad55fe1eadb3601363220cfa3586000ad7855b5d756d31cf6e205540"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.aarch64-apple-darwin.tar.gz"
 [[DssOpt]]
 arch = "aarch64"
-git-tree-sha1 = "f67bee5a2221bbfb44c26e5dd6721f76bebcbc6f"
+git-tree-sha1 = "d5d8d1bd1b827ab8ffb69b8e88f70a0bc75e23b0"
 libc = "glibc"
 os = "linux"
 
     [[DssOpt.download]]
-    sha256 = "1e2875304f5cd9fae83404cc8d877dd1a6ebc9d2d9b6df1815c658ef1443e681"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.aarch64-linux-gnu.tar.gz"
+    sha256 = "817daa70461b4672c0a510a8e414ba1496f6c33146a0d2703d7cb24e552a7d6f"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.aarch64-linux-gnu.tar.gz"
 [[DssOpt]]
 arch = "aarch64"
-git-tree-sha1 = "6f956d0be5bf66c60eb091a309f4456e786236e2"
+git-tree-sha1 = "8497de5bb7b8752bb8dc63da4563e4f1650d10db"
 libc = "musl"
 os = "linux"
 
     [[DssOpt.download]]
-    sha256 = "da34b489ea274e0cd6e014f64ccff6a26a5fd082e9fe81553d64f5546c448bfe"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.aarch64-linux-musl.tar.gz"
+    sha256 = "59238247685ace1c6530a6e1aaace2a899783fe02153824f4463ae1618a7af4b"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.aarch64-linux-musl.tar.gz"
 [[DssOpt]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "90cb7fd390ca06d1a96e9c75346a390831cc4341"
+git-tree-sha1 = "73a0724d7cde4a7cbaec125f72a42788d8d8597e"
 libc = "glibc"
 os = "linux"
 
     [[DssOpt.download]]
-    sha256 = "5c76b158b810d00ccd565bb2ea98382094da595776f51aa4e72ee7407e9c0b1e"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "0e49c3e2a4b9fca51b1629cfbc3deb13c7eee7b5bf46feb5375ab3d317a1d8b6"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.armv6l-linux-gnueabihf.tar.gz"
 [[DssOpt]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "27406277c1d95f67a7ac202118e9dee720435328"
+git-tree-sha1 = "5d1f313fd082051a10ad481fda850f565cde70dc"
 libc = "musl"
 os = "linux"
 
     [[DssOpt.download]]
-    sha256 = "fcd687d6c1f35c1073f3d30557a0b5bfcf162454e65ec13e338ae3a8dc4746d4"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "62990c1080c0f341ce440e40be3f0672c737f65ed53d211ea33c117df955061c"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.armv6l-linux-musleabihf.tar.gz"
 [[DssOpt]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8ecd2741fe846669cbd28e4595148a2037c0701a"
+git-tree-sha1 = "edf0cc43e422842e611dc0b6761cc7e402f979d8"
 libc = "glibc"
 os = "linux"
 
     [[DssOpt.download]]
-    sha256 = "9a93e02ee20a876c4d27e9c43d0056ba26d4e37a35d4b16b1bf40b7d8e2b7c23"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "4f4e09e6ed4a052ed4983e6152540c9547bdf996067a9f7b4582a96316e0b18b"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.armv7l-linux-gnueabihf.tar.gz"
 [[DssOpt]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "d4b085b2df14876e4be206f9fd6710731529264c"
+git-tree-sha1 = "aa9916a0625e7a6e57b3d307f6016d0a317f946b"
 libc = "musl"
 os = "linux"
 
     [[DssOpt.download]]
-    sha256 = "48db8718f8266f06c816d26d1c82c5677f0e244ae09315c519e7a8d7d2179a96"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "987610e11a42e9fa171fb5c91034a3fbede8cd2985f4ed09acfbc7ce1ebef8e9"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.armv7l-linux-musleabihf.tar.gz"
 [[DssOpt]]
 arch = "i686"
-git-tree-sha1 = "d29a1ae88f956e8ca957abc862d3195a8794c08f"
+git-tree-sha1 = "2f0de3c0b456eb4070cbb19914f52e5c65c3ff4f"
 libc = "glibc"
 os = "linux"
 
     [[DssOpt.download]]
-    sha256 = "1ad6b47bdee32923654a00582006239a3074eab12f964ca0a7cfb110e99ed41a"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.i686-linux-gnu.tar.gz"
+    sha256 = "533a98b4aeb8c1d36bab35339b16d7854753f791cb617d4bcf88b1c2fe066b4e"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.i686-linux-gnu.tar.gz"
 [[DssOpt]]
 arch = "i686"
-git-tree-sha1 = "822a979511ce111c933e321c799a0082c9ce523e"
+git-tree-sha1 = "df1a70d90dcb6b3173e0104b87b8e810dc71102a"
 libc = "musl"
 os = "linux"
 
     [[DssOpt.download]]
-    sha256 = "562ef88056bca529d8b4898bed3cc9713d8ce3007639c2b1a0405a7b58aacdf5"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.i686-linux-musl.tar.gz"
+    sha256 = "f8f05e50e78cecc3f13d6f07a421950299515407832199bf0eec43039f191b7b"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.i686-linux-musl.tar.gz"
 [[DssOpt]]
 arch = "i686"
-git-tree-sha1 = "d32c29a8ade67375e9fa2440cbb33fb1e9217eeb"
+git-tree-sha1 = "aa55c6418b92729b7e33387c238da8f2f992bb3e"
 os = "windows"
 
     [[DssOpt.download]]
-    sha256 = "fefe12fdd3d467868f2a2eea5671dbc998cc40f38322853f798f0421da7d25bb"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.i686-w64-mingw32.tar.gz"
+    sha256 = "1c9a878d97fca6d7ca7bf1668b7b148e5df2a5c0d7e5036f48eb9d484739d81d"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.i686-w64-mingw32.tar.gz"
 [[DssOpt]]
 arch = "powerpc64le"
-git-tree-sha1 = "98a68c45aa68c8f387f3adfdb192ed20c4507ce1"
+git-tree-sha1 = "f96ee7e2e478ff16f19a84e3ebd27c928bf3b1b8"
 libc = "glibc"
 os = "linux"
 
     [[DssOpt.download]]
-    sha256 = "ad49f5001ee04e93552dde2b305d8449fd5986ab32193817e40a462123d98155"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "22b4f390562c3dd2656f6375f3912fc056b3aadd67123a699a0746ffcdff51d4"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.powerpc64le-linux-gnu.tar.gz"
 [[DssOpt]]
 arch = "x86_64"
-git-tree-sha1 = "bf024e29c7e01b2b419ac1987b26fb208d179fa4"
+git-tree-sha1 = "3a008142238a16bfff97c925069a526cd0848073"
 os = "macos"
 
     [[DssOpt.download]]
-    sha256 = "9e83b9fe1502eb3983fc8e7e5b189c7b73fe019eefa53c32b094221222e654c7"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.x86_64-apple-darwin.tar.gz"
+    sha256 = "b4de07414d4a9eb5ae33d618c550147fe04e768d088350ed6f541819199f30e0"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.x86_64-apple-darwin.tar.gz"
 [[DssOpt]]
 arch = "x86_64"
-git-tree-sha1 = "2da15b1fddd656b5fdedb34fdb0710be89785640"
+git-tree-sha1 = "f6bbcf7e4a8622cd7a58127ed309f6b8edba93f1"
 libc = "glibc"
 os = "linux"
 
     [[DssOpt.download]]
-    sha256 = "14b774c35bc8058c0bede1c6d96e5c62f2febfad36e767c5a329aa80b22221ea"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.x86_64-linux-gnu.tar.gz"
+    sha256 = "b7c6f7cc7983792162914ee9b886c4445c482fbab0ae3b485ee79762c849ea82"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.x86_64-linux-gnu.tar.gz"
 [[DssOpt]]
 arch = "x86_64"
-git-tree-sha1 = "80434cd6c9e576b5f3aaa660ed4f90f9ba28d690"
+git-tree-sha1 = "50d6c9f5bafad5d046db688fbc8ed0c067d476ea"
 libc = "musl"
 os = "linux"
 
     [[DssOpt.download]]
-    sha256 = "3a90cac1328c5e3d8fa6c986cf8474b741db5f3ba5fc3fba3a8ab7c4db0dca5e"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.x86_64-linux-musl.tar.gz"
+    sha256 = "8d8c407fedc82789e7f78367e869e496109f09c598a48052319076f7d2ba5be8"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.x86_64-linux-musl.tar.gz"
 [[DssOpt]]
 arch = "x86_64"
-git-tree-sha1 = "eb46d85cfe7d4f0d064b753b6491cfa685251438"
+git-tree-sha1 = "df09c2038e8073bb06b140ddeda6e88244e76d0a"
 os = "freebsd"
 
     [[DssOpt.download]]
-    sha256 = "3487aef88af8dcc5c93589625db9ef7c1c6c2caa0b4339256ecb8924ba1d4ae4"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "23ad0b20af972971dfeaaa3c91dc39d79b1d3b6c9c6682b1670e2a11451bf281"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.x86_64-unknown-freebsd.tar.gz"
 [[DssOpt]]
 arch = "x86_64"
-git-tree-sha1 = "d029d24e43880c39958479a6b519f6fd82d13ea2"
+git-tree-sha1 = "d38daaafaf2f0c46decfa53979c5c92ff111d355"
 os = "windows"
 
     [[DssOpt.download]]
-    sha256 = "945d51a7f42bda8bd0364763960885e13a647ee9908707e4d7fba0a0a2853001"
-    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.4+0/DssOpt.v1.0.4.x86_64-w64-mingw32.tar.gz"
+    sha256 = "79ae10fa2c410b82468f7f30bbf946d68cd3ea8515f71dc64fcd9e1c58b1b010"
+    url = "https://github.com/marcom/DssOpt_jll.jl/releases/download/DssOpt-v1.0.5+0/DssOpt.v1.0.5.x86_64-w64-mingw32.tar.gz"
